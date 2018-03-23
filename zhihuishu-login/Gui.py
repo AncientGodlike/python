@@ -16,7 +16,7 @@ l2.pack()
 e2 = tk.Entry(window,show="*")
 e2.pack()
 
-
+# Save related data to local
 def save():
 	dataDic = {'account':'0','key':'0'}
 	dataDic['account'] = e1.get()
