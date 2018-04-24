@@ -1,2 +1,5 @@
-# python-script
-some codes
+# Something you need to read
+I am a colledge student and I learn python in my spare time.
+There are some codes I leanred and I applied in practical situation.
+I hope this may bring you some inspiration.BUT do not copy them!
+THINK DIFFERENT!!
